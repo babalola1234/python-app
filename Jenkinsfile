@@ -6,8 +6,8 @@ pipeline{
     }
     environment{
         
-        registry = "<dockerhub-username>/<repo-name>"
-        registryCredential = '<dockerhub-credential-name>'        
+        registry = "<babs1234/docker-test/python-app"
+        registryCredential = 'abcd1234'        
     }
     
     stages{
