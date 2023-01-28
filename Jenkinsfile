@@ -7,7 +7,7 @@ pipeline{
     environment{
         
         registry = "<babs1234/docker-test/python-app"
-        registryCredential = 'abcd1234'        
+        registryCredential = 'Raheem12345@'        
     }
     
     stages{
