@@ -7,7 +7,7 @@ pipeline{
     environment{
         
         registry = "babs1234/docker-test"
-        registryCredential = 'Raheem12345@'        
+        registryCredential = 'dockerhub'        
     }
     
     stages{
