@@ -6,7 +6,7 @@ pipeline{
     }
     environment{
         
-        registry = "babs1234/docker-test/python-app"
+        registry = "babs1234/docker-test"
         registryCredential = 'Raheem12345@'        
     }
     
